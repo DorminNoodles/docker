@@ -1,0 +1,3 @@
+create service --name engineering-bay\
+				--replicas 2\
+				
